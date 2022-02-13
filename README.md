@@ -1,9 +1,11 @@
- Hi Im Daniyal Asp.Net Developer 👋
+<h1 align="center"> HI, My Name is Daniyal <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif"</h1>
 
 # 💫About Me :
-:computer: BackEnd Asp.Net Core Developer 
-:computer: FrontEnd Blazor Developer
-:computer: DataBase SQL Server 
+💻 BackEnd Asp.Net Core Developer
+</br>
+💻 FrontEnd Blazor Developer
+</br>
+💻 DataBase SQL Server 
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/!Fml#0709) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Daniyal2224) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Daniyal2224) 
